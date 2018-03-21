@@ -6,9 +6,9 @@ namespace ClasseJson
 {
     public enum Mensagem
     {
-        [CustomAttribute("1","Deu bom porra")]
+        [CustomAttribute("1","Deu bom")]
         item1 = 1,
-        [CustomAttribute("2", "Deu bom porra filho de uma puta")]
+        [CustomAttribute("2", "Deu bom p")]
         item2 = 2
     }
 
